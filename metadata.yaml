@@ -1,0 +1,47 @@
+_repo: Jacques-le-fataliste-et-son-ma-tre_39976
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diderot, Denis
+    alias: Diderot, Pantophile
+    birthdate: 1713
+    deathdate: 1784
+    gutenberg_agent_id: '2071'
+    url: http://www.gutenberg.org/2009/agents/2071
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Denis_Diderot
+    - http://fr.wikipedia.org/wiki/Denis_Diderot
+  editor:
+    agent_name: Assézat, Jules
+    aliases:
+    - Assezat, Jules
+    - Assézat, J. (Jules)
+    birthdate: 1832
+    deathdate: 1876
+    gutenberg_agent_id: '33444'
+    url: http://www.gutenberg.org/2009/agents/33444
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- Best Books Ever Listings
+- FR Littérature
+gutenberg_issued: '2012-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39976'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fate and fatalism -- Fiction'
+- !lcsh 'Storytelling -- Fiction'
+- !lcsh 'French fiction -- 18th century'
+- !lcsh 'Free will and determinism -- Fiction'
+- !lcsh 'Valets -- Fiction'
+title: Jacques le fataliste et son maître
+url: http://www.gutenberg.org/ebooks/39976
